@@ -1,0 +1,21 @@
+---
+a: b
+c: d
+page:
+    title: hehe
+---
+extends ./_layouts/default
+block content
+    a = 'mytitle'
+    p #{page.title}
+    p #{a}
+    
+    {% include vendor/jquery-1.7.1.min.js %}
+    
+    
+    {% include vendor/jquery-1.733.1.min.js %}
+    
+    
+    
+    
+    {% include vendor/jquery-1.7.441.min.js %}
