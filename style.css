@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {% include include.css %}
 
 body {
 	width: 100px;
+=======
+{% include include.css %}
+
+body {
+	width: 100px;
+>>>>>>> c45c64807eeca0ca20bcb5cfa4811b820b9e880c
 }

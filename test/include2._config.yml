@@ -1,0 +1,4 @@
+include:
+    - imgs
+    - css
+    - test.txt

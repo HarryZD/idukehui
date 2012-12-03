@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 ---
 name: nohyes
 include:
     - css
+=======
+---
+name: nohyes
+include:
+    - css
+>>>>>>> c45c64807eeca0ca20bcb5cfa4811b820b9e880c
     - imgs
