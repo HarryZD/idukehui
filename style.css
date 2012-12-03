@@ -1,0 +1,5 @@
+{% include include.css %}
+
+body {
+	width: 100px;
+}
